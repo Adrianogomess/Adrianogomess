@@ -1,7 +1,7 @@
-😀 Formado em Análise e Desenvolvimento de Sistemas pela UCB
-📣 Estudando HTML5 CSS3
-📌 Procurando Uma Recolocação Profissional
-🏁 Procurando minha Primeira Oportunidade
+😀 Formado em Análise e Desenvolvimento de Sistemas pela <br>
+📣 Estudando HTML5 <br>
+📌 Procurando Uma Recolocação Profissional<br>
+🏁 Procurando minha Primeira Oportunidade<BR>
 
 ## Olá eu sou o Adriano Gomes, um amante de tecnologia!
 <div align="center">
