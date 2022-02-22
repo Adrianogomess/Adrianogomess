@@ -1,4 +1,4 @@
-😀 Formado em Análise e Desenvolvimento de Sistemas pela <br>
+😀 Formado em Análise e Desenvolvimento de Sistemas pela UCB<br>
 📣 Estudando HTML5 <br>
 📌 Procurando Uma Recolocação Profissional<br>
 🏁 Procurando minha Primeira Oportunidade<BR>
